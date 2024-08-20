@@ -13,7 +13,6 @@
 
 - 💬 Ask me about **Python, data engineering, current machine learning models and one piece 🏴‍☠️**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
