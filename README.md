@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saabriin Mohamed</h1>
 <h3 align="center"> </h3>
 
-<img align="right" alt="Coding" width="400" src='https://camo.githubusercontent.com/59ecc3d08b352457b767d9737d5e66252266991d7d13cf26d34c87f827b88abe/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37392f34382f30652f37393438306538376439666362313135333266356661373130306631363434642e676966'>
+<img align="right" alt="Coding" width="400" src='https://camo.githubusercontent.com/3f4f75b677556ec7979c434e14cf2d87957dfb52eb1ce64e5bf9fd2776652279/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37392f34382f30652f37393438306538376439666362313135333266356661373130306631363434642e676966'>
 
 
 - 🔭 I’m currently working on **[building a Pinterest data pipeline handling both batch and streaming data](https://github.com/SaabriinMo/pinterest-data-pipeline731)**
