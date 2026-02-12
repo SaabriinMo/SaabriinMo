@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning **AWS and Databricks**
 
 
-- 👯 I’m looking to collaborate on **any data engineering or machine learning projects**
-
-- 💬 Ask me about **Python, data engineering, current machine learning models and one piece 🏴‍☠️**
+- 💬 Ask me about **Python, current machine learning models and one piece 🏴‍☠️**
 
 <p align="left">
 </p>
